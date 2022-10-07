@@ -181,7 +181,7 @@ ul > li {
 .icon {
     --item-width: 2.4rem;
 
-    background-image: url("/images/icon-star.svg");
+    background-image: url("./images/icon-star.svg");
     background-color: var(--clr-dark-blue);
     background-repeat: no-repeat;
     background-position: 50% 49%;
